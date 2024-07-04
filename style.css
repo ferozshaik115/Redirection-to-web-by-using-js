@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/05/35/70/27/360_F_535702760_tgL9jLehcmyd3IM6K2R7bGk7yj55W19s.jpg");
+    background-size: cover;
+    text-align: center;
+    margin-top: 20%;
+    
+}
+input:hover{
+    color:rgb(247, 248, 248);
+    border-radius: 10px;
+    background-color: rgb(137, 25, 25);
+    cursor: pointer;
+    transition: 0.5s;
+    font-size: 14px;
+}
+input{
+    border-radius: 10px;
+    padding: 3px 20px;
+    font-size: 15px;
+}
